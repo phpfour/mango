@@ -1,0 +1,7 @@
+{
+    "require": {
+        "silex/silex": "v1.1.0",
+        "symfony/class-loader": "2.1.*",
+        "symfony/yaml": "2.1.*"
+    }
+}
