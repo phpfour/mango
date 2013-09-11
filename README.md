@@ -1,4 +1,5 @@
-mango
+Mango
 =====
 
-Simple logging and tracking for your application in real-time.
+Mango is an application process tracking and measurement service especially useful for 
+tracking distributed systems and services. 
